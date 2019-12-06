@@ -8,7 +8,9 @@
 - git commit: Commit changes from staging area to current branch
 - git config: Set or get configuration
 - git log: Show history of project commits
-- git ceckout : Check out branch (update HEAD and apply changes to working directory)
+- git show: Show a single commit
+- git diff: Show the difference between commits, the working directory, and the staging area
+- git checkout : Check out branch (update HEAD and apply changes to working directory)
 
 # commit messages
 

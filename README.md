@@ -9,7 +9,7 @@
 - git config: Set or get configuration
 - git log: Show history of project commits
 - git ceckout : Check out branch (update HEAD and apply changes to working directory)
-
+- git merge: Merge changes from different branches
 # commit messages
 
 Default editor is vim (this can be changed)

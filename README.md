@@ -7,12 +7,15 @@
 - git add: Add changes from working directory to staging area
 - git commit: Commit changes from staging area to current branch
 - git config: Set or get configuration
+<<<<<<<
 - git log: Show a history (aka "log") of project commits
-- git ceckout : Check out branch (update HEAD and apply changes to working directory)
 - git branch -c: Create a branch
 - git checkout -b: create branch, then check it checkout
 - git branch: List branches
 - git merge: Merge changes from different branches
+- git show: Show a single commit
+- git diff: Show the difference between commits, the working directory, and the staging area
+- git checkout : Check out branch (update HEAD and apply changes to working directory)
 
 # What's a branches?
 A branch is a ref(erence) to a commit. When HEAD points to a branch, we say we're "on" that branch. When we make a commit whlie we're on a branch, the branch is updated to ref(er) to the new commit.
